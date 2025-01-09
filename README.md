@@ -5,9 +5,10 @@ This repository contains the code and datasets used to develop an email fraud de
 ## Usage:
 
 To run the project:
-Clone the repository:
-git clone https://github.com/yourusername/email-fraud-detection.git
+1. Clone the repository:
+git clone https://github.com/yourusername/Email_Fraud_Detection.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
+cd Email_Fraud_Detection
 
-cd email-fraud-detection
+3. Open and run the Jupyter Notebook (email_fraud_detection.ipynb) to start the analysis.

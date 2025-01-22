@@ -11,7 +11,7 @@ To run the project:
 2. Navigate to the project directory:
 **cd Email_Fraud_Detection**
 
-3. Open and run the Jupyter Notebook (mail_fraud_detection.ipynb) to start the analysis.
+3. Open and run the Jupyter Notebook (**Email_Fraud_Detection.ipynb**) to start the analysis.
 
 4. Ensure **hard_ham.csv**, **easy_ham.csv** and **spam.csv** are downloaded and located in the same folder as the notebook.
 

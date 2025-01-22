@@ -17,16 +17,15 @@ To run the project:
 
 ## Setup and Installation:
 
--pip install pandas
--pip install numpy
--pip install nltk
--pip install scikit-learn
--pip install matplotlib
--pip install seaborn
--pip install wordcloud
+- pip install pandas
+- pip install numpy
+- pip install nltk
+- pip install scikit-learn
+- pip install matplotlib
+- pip install seaborn
+- pip install wordcloud
 
--nltk.download('punkt')
--nltk.download('stopwords')
--nltk.download('wordnet')
-
+- nltk.download('punkt')
+- nltk.download('stopwords')
+- nltk.download('wordnet')
 

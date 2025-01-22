@@ -6,11 +6,15 @@ This repository contains the code and datasets used to develop an email fraud de
 
 To run the project:
 1. Clone the repository:
-git clone https://github.com/davidfit21/Email_Fraud_Detection.git
+**git clone https://github.com/davidfit21/Email_Fraud_Detection.git**
 
 2. Navigate to the project directory:
-cd Email_Fraud_Detection
+**cd Email_Fraud_Detection**
 
-3. Open and run the Jupyter Notebook (email_fraud_detection.ipynb) to start the analysis.
+3. Open and run the Jupyter Notebook (mail_fraud_detection.ipynb) to start the analysis.
 
-4. Ensure hard_ham.csv, easy_ham.csv and spam.csv are downloaded and located in the same folder as the notebook.
+4. Ensure **hard_ham.csv**, **easy_ham.csv** and **spam.csv** are downloaded and located in the same folder as the notebook.
+
+## Setup and Installation:
+
+
